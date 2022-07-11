@@ -4,13 +4,12 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2022-07-11T18:42:15+02:00",
+    "exported_at": "2022-07-11T22:18:40+02:00",
     "name": "Wreckfest",
     "author": "pterodactyl@lnb.dev",
     "description": "Wreckfest is a demolition derby themed racing game with soft-body damage modeling, sophisticated driving dynamics and in-depth vehicle upgrading, featuring both demolition derbies and more traditional track races. It's all about fun, breakneck racing and over-the-top crashes.",
     "features": null,
     "docker_images": {
-        "Privacy friendly provided by TacAM.de": "registry.tacam.de\/tacam\/steamcmd-wine:v7",
         "DockerHub": "lukasboe\/steamcmd-wine:v7"
     },
     "file_denylist": [],
