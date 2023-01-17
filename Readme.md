@@ -1,4 +1,4 @@
-# Wreckfest Egg for Pterodactyl
+# Wreckfest Egg for Pterodactyl [Broken | Fix in work]
 ## Required Ports
 |Port|default|
 |----|-------|
